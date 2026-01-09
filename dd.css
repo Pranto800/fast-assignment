@@ -1,0 +1,30 @@
+.baner-text h5{
+   width: 190px;
+   height: 20px;
+   padding: 8px 15px;
+   background-color: white;
+   color: #30B868;
+   border-radius: 50px;
+   font-size: 16px;
+   
+   
+}
+.baner-text h1{
+    font-size: 72px;
+    color: white;
+    margin-top: 20px;
+}
+.text-color{
+    color: #30B868;
+}
+.baner-text p{
+    font-size: 18px;
+   margin-bottom: 200;
+   color: white;
+}
+.pg{
+    margin-top: 20px;
+}
+.baner-text button{
+   
+}
